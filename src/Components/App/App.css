@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.App {
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+}
+
