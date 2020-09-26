@@ -1,3 +1,8 @@
+# About
+This is an calculator built with react js.
+It looks gorgeous you can check it out.
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
